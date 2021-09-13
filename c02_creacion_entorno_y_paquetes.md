@@ -31,7 +31,7 @@ Para realizar la instalación debes seguir los siguientes pasos:
 2. Selecciona tu versión de Sistema Operativo: Windows - macOS - Linux
 3. Haz click en Descargar/Download “Python 3.7 version” (o click en la versión adecuada para tu CPU 64-bit o 32-bit)
 
-[](./imagenes/img1.png)
+![](./imagenes/img1.png)
 
 Después de descargar el instalador gráfico, debes abrirlo y seguir las instrucciones que se presentarán en pantalla. Estas son una serie de preguntas para realizar la instalación, las opciones por defecto están bien, no hay necesidad de cambiarlas.
 
@@ -41,24 +41,24 @@ Una vez que finalizada la instalación debes abrir el programa Anaconda Navigato
 
 Haz click en Environments y despues click en +Create. Se abrirá una ventana para crear un nuevo entorno.
 
-[](./imagenes/img2.png)
+![](./imagenes/img2.png)
 
 Llena los siguientes campos:
 
-[](./imagenes/img3.png)
+![](./imagenes/img3.png)
 
 - Name: Platzi - FundamentosAL
 - Packages: tilde en Python y del menú desplegable selecciona 3.7
 
-[](./imagenes/img4.png)
+![](./imagenes/img4.png)
 
 momento para configurar el nuevo entorno y actualizarlo. Cuando termine verás una pantalla similar a esta
 
-[](./imagenes/img5.png)
+![](./imagenes/img5.png)
 
 Los paquetes que ves son los que están instalados por defecto, necesitas instalar varios más. Haz click en installed y cambiarlo a not installed.
 
-[](./imagenes/img6.png)
+![](./imagenes/img6.png)
 
 En el recuadro de search packages pon:
 
