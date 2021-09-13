@@ -1,0 +1,1 @@
+El álgebra lineal es la rama de las matemáticas que se ocupa de estudiar las operaciones entre matrices y vectores. La ciencia de datos utiliza en su mayor parte matrices y vectores, entonces, así como es importante las operaciones entre dos números como la suma y la multiplicación, es importante saber sobre las operaciones que ocurren entre matrices y vectores.
